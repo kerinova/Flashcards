@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flashcards", "Flashcards\Flashcards.csproj", "{1AED1A96-7060-4666-AD20-49A4461C0DAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlashcardsAndroid", "FlashcardsAndroid\FlashcardsAndroid.csproj", "{37263542-5EBC-4F0A-A043-27746DA94C32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlashcardsLib", "FlashcardsLib\FlashcardsLib.csproj", "{203EED93-E635-4166-A417-03E175722C6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AED1A96-7060-4666-AD20-49A4461C0DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AED1A96-7060-4666-AD20-49A4461C0DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AED1A96-7060-4666-AD20-49A4461C0DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AED1A96-7060-4666-AD20-49A4461C0DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37263542-5EBC-4F0A-A043-27746DA94C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37263542-5EBC-4F0A-A043-27746DA94C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37263542-5EBC-4F0A-A043-27746DA94C32}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{37263542-5EBC-4F0A-A043-27746DA94C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37263542-5EBC-4F0A-A043-27746DA94C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37263542-5EBC-4F0A-A043-27746DA94C32}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{203EED93-E635-4166-A417-03E175722C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203EED93-E635-4166-A417-03E175722C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203EED93-E635-4166-A417-03E175722C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203EED93-E635-4166-A417-03E175722C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

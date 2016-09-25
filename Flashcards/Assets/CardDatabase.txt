@@ -1,0 +1,31 @@
+﻿Assets/Images/1.jpg;Prehistoric;Paleolithic;Human with feline head;Hohlenstein-Stadel Germany;30,000-28,000 BCE;Mammoth Ivory
+Assets/Images/2.png;Prehistoric;Paleolithic;Venus of Willendorf;Willendorf;28,000-25,000 BCE; Limestone
+Assets/Images/3.jpg;Prehistoric;Paleolithic;Two Bison;Ariege;15,000-10,000 BCE; Clay
+Assets/Images/4.png;Prehistoric;Paleolithic;Spotted horses and negative hand imprints;Cave at Pech-Merle;22,000 BCE;Ochre, Charcoal
+Assets/Images/5.png;Prehistoric;Paleolithic;Hall of the Bulls;Lascaux Cave;15,000-13,000 BCE;Ochre, Charcoal
+Assets/Images/6.png;Ancient Near East;Sumerian;White Temple and Ziggurat;Uruk;3,200-3,000 BCE;Mud bricks
+Assets/Images/7.png;Ancient Near East;Sumerian;Warka Vase;Uruk;3,200-3,000 BCE;Alabaster
+Assets/Images/8.png;Ancient Near East;Sumerian;Statuette of Two Worshippers;Square Temple;2700 BCE;Gypsum inlaid with shell and black limestone
+Assets/Images/9.png;Ancient Near East;Sumerian;Standard of Ur;Ur;2600 BCE;Wood inlaid with shell, lapiz lazuli, red limestone
+Assets/Images/10.png;Ancient Near East;Sumerian;Soundbox of the Lyre;Ur;2600 BCE;Wood inlaid with shell, lapiz lazuli, and gold
+Assets/Images/11.png;Ancient Near East;Akkadian;Head of an Akkadian Ruler;Nineveh;2250-2200 BCE;Copper
+Assets/Images/12.png;Ancient Near East;Babylonian;Stele with Law Code of Hammurabi;Susa;1780 BCE;Basalt
+Assets/Images/13.png;Ancient Near East;Elamites;Important: Statue of Queen Napir-Asu;Susa;1350-1300 BCE;Bronze and Copper
+Assets/Images/14.png;Ancient Near East;Assyrians;Assyrian archers pursuing enemies;Kalhu;875-860 BCE;Gypsum
+Assets/Images/15.png;Ancient Egypt;Old Kingdom Dynasty 4;Great Pyramids of Gizeh;Gizeh;2500 BCE;Limestone Blocks
+Assets/Images/16.png;Ancient Egypt;Old Kingdom Dynasty 4;Menkaure and Khamernebty;Gizeh;2490-2474 BCE;Graywacke
+Assets/Images/17.png;Ancient Egypt;Old Kingdom Dyansty 5;Ka-Aper;Saqqara;2450-2350 BCE;Wood
+Assets/Images/18.png;Ancient Egypt;New Kingdom Dynasty 19;Temple of Ramses II;Abu Simbel;1290-1224 BCE;Sandstone
+Assets/Images/19.png;Ancient Egypt;New Kingdom Dynasty 19;Hypostyle Hall;Temple of Amen-Re;1290-1224 BCE;Post and lintel
+Assets/Images/20.png;Ancient Egypt;New Kingdom Dynasty 18;Fowling Scene;Tomb of Nebamun;1400-1350 BCE;Fresco secca
+Assets/Images/21.png;Ancient Egypt;New Kingdom Dynasty 18;Akhenaton;Temple of Aton;1353-1335 BCE;Sandstone
+Assets/Images/22.png;Ancient Egypt;New Kingdom Dynasty 18;Neferetti;Tell el-Amarna;1353-1335 BCE;Painted limestone
+Assets/Images/23.png;Ancient Egypt;New Kingdom Dynasty 18;Death mask of Tutankhamen;Tomb at Thebes;1323 BCE;Gold with inlaid semiprecious stones
+Assets/Images/24.png;Ancient Aegean;Early Cycladic;Figurine of Woman;Syros;2500-2300 BCE;Marble
+Assets/Images/25.png;Ancient Aegean;Late Minoan;Minoan Woman or Goddess;Palace at Knossos;1450-1400 BCE;Fresco
+Assets/Images/26.png;Ancient Aegean;Late Minoan;Bull-leaping;Palace at Knossos;1450-1400 BCE;Fresco
+Assets/Images/27.png;Ancient Aegean;Late Cycladic;Landscape with swallows;Akrotiri;1650 BCE;Fresco
+Assets/Images/28.png;Ancient Aegean;Late Minoan;Marine Style Octupus Jar;Palaikastro;1500 BCE;Marine Style Pottery
+Assets/Images/29.png;Ancient Aegean;Late Minoan;Young God;Palaikastro;1500-1475 BCE;Ivory, Gold, Serpatine, Rock Crystal
+Assets/Images/30.png;Ancient Aegean;Late Mycenaean;Vault of the Tholos;Mycenae;1300-1250 BCE;Rough-hewn blocks
+Assets/Images/31.png;Ancient Aegean;Late Mycenaean;Funerary Mask;Mycenaean;1600-1500 BCE;Beaten Gold

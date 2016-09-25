@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/cardImage"
+            android:layout_height="150dp"
+            android:layout_width="match_parent" />
+        <LinearLayout
+            android:id="@+id/cardDetailsView"
+            android:orientation="vertical"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_below="@id/cardImage">
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="@string/lblCulture"
+                android:id="@+id/lblCulture"
+                android:textStyle="bold" />
+            <EditText
+                android:id="@+id/txtCulture"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content" />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="@string/lblPeriod"
+                android:id="@+id/lblPeriod"
+                android:textStyle="bold" />
+            <EditText
+                android:id="@+id/txtPeriod"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content" />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="@string/lblTitle"
+                android:id="@+id/lblTitle"
+                android:textStyle="bold" />
+            <EditText
+                android:id="@+id/txtTitle"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content" />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="@string/lblLocation"
+                android:id="@+id/lblLocation"
+                android:textStyle="bold" />
+            <EditText
+                android:id="@+id/txtLocation"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content" />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="@string/lblDate"
+                android:id="@+id/lblDate"
+                android:textStyle="bold" />
+            <EditText
+                android:id="@+id/txtDate"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content" />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="@string/lblMedium"
+                android:id="@+id/lblMedium"
+                android:textStyle="bold" />
+            <EditText
+                android:id="@+id/txtMedium"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/buttonsView"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_below="@id/cardDetailsView">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnPrev"
+                android:text="@string/btnPrev" />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnFlip"
+                android:text="@string/btnFlip" />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnNext"
+                android:text="@string/btnNext" />
+        </LinearLayout>
+    </RelativeLayout>
+</ScrollView>

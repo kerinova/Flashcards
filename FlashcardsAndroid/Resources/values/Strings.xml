@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">FlashcardsAndroid</string>
+
+  <string name="lblCulture">Culture:</string>
+  <string name="lblPeriod">Period:</string>
+  <string name="lblTitle">Title:</string>
+  <string name="lblLocation">Location:</string>
+  <string name="lblDate">Date:</string>
+  <string name="lblMedium">Medium:</string>
+
+  <string name="btnPrev">Previous</string>
+  <string name="btnFlip">Flip</string>
+  <string name="btnNext">Next</string>
+</resources>
