@@ -144,13 +144,14 @@ namespace FlashcardsAndroid
         {
             if (previousCard > -1)
             {
-                ProcessCardData(previousCard);
+                currentCard = previousCard;
                 DisplayCard(previousCard);
 
                 previousCard--;
                 if (previousCard < 0) //if the previous card is 0, then go to the latest card in the list.
                 {
                     previousCard = cardDatas.Count - 1;
+                    BtnPrev_Click(null, null);
                 }
             }
         }

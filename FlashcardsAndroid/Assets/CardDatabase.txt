@@ -24,7 +24,7 @@ f23;Ancient Egypt;New Kingdom Dynasty 18;Death mask of Tutankhamen;Tomb at Thebe
 f24;Ancient Aegean;Early Cycladic;Figurine of Woman;Syros;2500-2300 BCE;Marble
 f25;Ancient Aegean;Late Minoan;Minoan Woman or Goddess;Palace at Knossos;1450-1400 BCE;Fresco
 f26;Ancient Aegean;Late Minoan;Bull-leaping;Palace at Knossos;1450-1400 BCE;Fresco
-f27;Ancient Aegean;Late Cycladic;Landscape with swallows;Akrotiri;1650 BCE;Fresco
+f27;Ancient Aegean;Late Cycladic;Landscape with swallows;Thera;1650 BCE;Fresco
 f28;Ancient Aegean;Late Minoan;Marine Style Octupus Jar;Palaikastro;1500 BCE;Marine Style Pottery
 f29;Ancient Aegean;Late Minoan;Young God;Palaikastro;1500-1475 BCE;Ivory, Gold, Serpatine, Rock Crystal
 f30;Ancient Aegean;Late Mycenaean;Vault of the Tholos;Mycenae;1300-1250 BCE;Rough-hewn blocks
